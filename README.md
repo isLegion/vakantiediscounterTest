@@ -6,7 +6,8 @@ JavaScript + [Cypress](https://www.cypress.io/)
 
 # For run test
 
-> npm i (if you don't have a Node.js use *npm install npm@latest -g*)
+(if you don't have a Node.js on your machine please use *npm install npm@latest -g* before)
+> npm i 
 
 *headless mode:* 
 > cypress run
